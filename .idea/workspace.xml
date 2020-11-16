@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bdbea87-660d-43bd-8c14-7789539e9711" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="ProjectId" id="1kKZHRjYQ3n6apAYUyYoaiT4QRg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProjects\src\homework\lv4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build homework/lv4">
+    <configuration name="go build homework/lv2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/lv2/main.go" />
+      <package value="homework/lv2" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build homework/lv3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/lv3/main.go" />
+      <package value="homework/lv3" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build homework/lv4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/lv4/main.go" />
+      <package value="homework/lv4" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build homework/lv4" />
+        <item itemvalue="Go Build.go build homework/lv3" />
+        <item itemvalue="Go Build.go build homework/lv2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="181" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605464576013">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="451" y="181" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1418.759@0.0.1418.759" timestamp="1605464576013" />
+    <state x="489" y="134" key="FileChooserDialogImpl" timestamp="1605458089764">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state x="489" y="134" key="FileChooserDialogImpl/0.0.1418.759@0.0.1418.759" timestamp="1605458089764" />
+    <state width="1374" height="212" key="GridCell.Tab.0.bottom" timestamp="1605464786363">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="212" key="GridCell.Tab.0.bottom/0.0.1418.759@0.0.1418.759" timestamp="1605464786363" />
+    <state width="1374" height="212" key="GridCell.Tab.0.center" timestamp="1605464786361">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="212" key="GridCell.Tab.0.center/0.0.1418.759@0.0.1418.759" timestamp="1605464786361" />
+    <state width="1374" height="212" key="GridCell.Tab.0.left" timestamp="1605464786360">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="212" key="GridCell.Tab.0.left/0.0.1418.759@0.0.1418.759" timestamp="1605464786360" />
+    <state width="1374" height="212" key="GridCell.Tab.0.right" timestamp="1605464786362">
+      <screen x="0" y="0" width="1418" height="759" />
+    </state>
+    <state width="1374" height="212" key="GridCell.Tab.0.right/0.0.1418.759@0.0.1418.759" timestamp="1605464786362" />
+  </component>
+</project>
